@@ -1,5 +1,21 @@
 # Changelog
 
+## [6.33.0](https://github.com/googleapis/java-spanner/compare/v6.32.0...v6.33.0) (2022-11-09)
+
+
+### Features
+
+* Adding samples for Jsonb data type ([#2147](https://github.com/googleapis/java-spanner/issues/2147)) ([1112203](https://github.com/googleapis/java-spanner/commit/1112203bd6bde68fcd04ae68a2a31ec88dd5b1ac))
+* Support DML with Returning clause in Connection API ([#1978](https://github.com/googleapis/java-spanner/issues/1978)) ([aac20be](https://github.com/googleapis/java-spanner/commit/aac20bedf9ee7a6a2170f87fa88373b7d364ed9f))
+* Support PostgreSQL END statement ([#2131](https://github.com/googleapis/java-spanner/issues/2131)) ([4c29c17](https://github.com/googleapis/java-spanner/commit/4c29c17fb35e51fdad99e393a8f6bb57c914dc8a))
+* Update transaction.proto to include different lock modes ([#2112](https://github.com/googleapis/java-spanner/issues/2112)) ([d0195b4](https://github.com/googleapis/java-spanner/commit/d0195b45423b73969636bc911980613a46dffa97))
+
+
+### Dependencies
+
+* Update dependency com.google.cloud:google-cloud-shared-dependencies to v3.0.6 ([#2150](https://github.com/googleapis/java-spanner/issues/2150)) ([dba545f](https://github.com/googleapis/java-spanner/commit/dba545ff5ebb069a78b42cbffff032d66dc3d062))
+* Update dependency org.graalvm.buildtools:junit-platform-native to v0.9.17 ([#2144](https://github.com/googleapis/java-spanner/issues/2144)) ([dd24b89](https://github.com/googleapis/java-spanner/commit/dd24b894fd80ccc962a414bb404d9624336f4612))
+
 ## [6.32.0](https://github.com/googleapis/java-spanner/compare/v6.31.2...v6.32.0) (2022-10-27)
 
 
